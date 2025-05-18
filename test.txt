@@ -1,0 +1,3 @@
+nama   : naufal
+divisi : programming
+sub divisi : machine learninggit
